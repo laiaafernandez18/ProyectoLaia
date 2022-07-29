@@ -1,0 +1,85 @@
+
+.card{
+    background-color: rgba(255, 192, 203, 0.527);
+    border: none;
+    border-radius: 40px;
+ 
+   
+}
+.img-fluid{
+    max-width: 100%;
+    height: 214px;
+    width: 280px;
+    margin-top: 19px;
+    border-radius: 16px;
+}
+.card-body{
+    
+    padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
+    color: var(--bs-card-color);
+  
+}
+.header{
+    background-color: rgba(255, 123, 222, 0.301);
+}
+
+.py-5{
+    background-image: url("https://i.pinimg.com/originals/66/66/4b/66664b642a7597d0d87840abd873f3fd.png");
+    background-repeat:no-repeat;
+    background-position-x:center;
+    background-position-y:center;
+    background-size: 46rem;
+}
+.btn-add{
+    background-color: rgba(119, 52, 182, 0.562);
+    border-color:  rgba(219, 21, 176, 0.562);
+    margin-left: 31px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+  
+}
+
+.card-btn{
+    background-color: rgba(21, 182, 48, 0.705);
+}
+
+.pick{
+    height: 54px;
+    width: 84px;
+    margin-top: 17px;
+    margin-left: -106px;
+    border-radius: 50%;
+}
+.logo{
+    margin-left: -70px;
+    color: white;
+    margin-top: 52px;
+    font-size: 10px;
+}
+
+.text-muted {
+    background-color: rgba(146, 110, 141, 0.329);
+    margin-top: 32px;
+}
+.box-form{
+    height: 331px;
+    width: 1490px;
+    background-image: url("https://i.pinimg.com/originals/66/66/4b/66664b642a7597d0d87840abd873f3fd.png");
+    margin-top: 101px;
+    display: flex;
+    position: relative;
+}
+.form{
+    margin: auto;
+    align-items: center;
+}
+.text-white{
+    font-size: 1rem;
+    margin-left: 700px;
+   
+}
+.form-btn{
+    margin-left: 43%;
+}
+
